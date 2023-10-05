@@ -5,7 +5,7 @@ public class Master_Test1 {
 		 		
 		int score = 75; 
 		char grade = ' ';   
-		String branch_name = "master"; 
+		String branch_name = "branchA"; 
 		
 		if ((score>=90)&&(score<=100)) {  
 			grade = 'A';
